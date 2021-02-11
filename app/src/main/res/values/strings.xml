@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shopper</string>
+
+    <!-- Create Order -->
+    <string name="lbl_store">Store:</string>
+    <string name="btn_create">Create New List</string>
+    <string name="store_instructions">Please type the store name in the box below, and hit
+    the Create New List button.</string>
+    <!-- Menu options -->
+    <string name="menu_receipt">Receipts</string>
+    <string name="menu_settings">Settings</string>
+    <!-- Edit List -->
+    <string name="title_activity_edit_shopping_list">Shopping List</string>
+    <string name="lbl_item">Item:</string>
+    <string name="lbl_price">Price:</string>
+    <string name="lbl_tax">Taxed:</string>
+    <string name="btn_add_item_to_list">Add to List</string>
+    <string name="btn_view_list">View List</string>
+    <string name="all_receipts">All Receipts</string>
+    <!--Receipts in Items Activity -->
+    <string name="lbl_total">Total: </string>
+    <string name="title_activity_add_list">AddListActivity</string>
+    <string name="hello_world">Hello Square World!</string>
+</resources>
